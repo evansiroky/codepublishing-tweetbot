@@ -1,0 +1,9 @@
+{
+  "name": "codepublishing-twitterbot",
+  "version": "1.0.0",
+  "description": "A twitter bot that tweets a section of the municipal code of a city",
+  "repository": "https://github.com/evansiroky/codepublishing-twitterbot.git",
+  "author": "evansiroky <evan.siroky@yahoo.com>",
+  "license": "MIT",
+  "private": false
+}
