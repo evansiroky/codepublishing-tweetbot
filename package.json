@@ -5,5 +5,8 @@
   "repository": "https://github.com/evansiroky/codepublishing-twitterbot.git",
   "author": "evansiroky <evan.siroky@yahoo.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^1.6.0"
+  }
 }
